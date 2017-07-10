@@ -1,0 +1,16 @@
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+open can error 
+
+Can init error 
+
+"Sending: 10 43 0 5 d8 "
+"Sending: 11 43 0 4 d8 "
+"Sending: 12 43 0 7 dc "
+"Sending: 13 43 0 6 dc "
+"Sending: 14 43 0 1 d8 "
+"Sending: 15 43 0 0 d8 "
+"Sending: 16 43 0 3 dc "
+"Sending: 17 43 0 2 dc "
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

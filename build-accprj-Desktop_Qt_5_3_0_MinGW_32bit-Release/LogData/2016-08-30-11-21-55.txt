@@ -1,0 +1,44 @@
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+open can error 
+
+Can init error 
+
+"Sending: 10 43 0 5 d8 "
+"Sending: 11 43 0 4 d8 "
+"Sending: 12 43 0 7 dc "
+"Sending: 13 43 0 6 dc "
+"Sending: 14 43 0 1 d8 "
+"Sending: 15 43 0 0 d8 "
+"Sending: 16 43 0 3 dc "
+"Sending: 17 43 0 2 dc "
+"Sending: 10 41 1e 1e 1 1 c 11 10 bc "
+"Sending: 10 42 1a 1a fa fa fa c8 2e ea "
+"Sending: 14 41 1 0 0 14 ea "
+"Sending: 17 44 1 40 8 1e c2 "
+"Sending: 17 44 2 80 8 21 86 "
+"Sending: 17 44 3 0 9 39 a0 "
+"Sending: 17 44 4 0 9 4e b6 "
+"Sending: 17 44 5 0 a 5c c6 "
+"Sending: 17 44 6 0 c 69 d6 "
+"Sending: 17 48 1 1 7e df "
+"Sending: 17 48 2 1 8d ef "
+"Sending: 17 48 3 1 9c ff "
+"Sending: 17 48 4 1 ab 8f "
+state 1
+"Sending: 17 48 5 3 b8 9f "
+"Sending: 17 48 6 3 cb b3 "
+"Sending: 17 48 8 3 d5 bf "
+"Sending: 17 48 9 3 e4 cf "
+"Sending: 17 48 a 3 f7 e3 "
+"Sending: 10 4d 0 0 0 0 0 0 0 0 32 8f "
+"Sending: 10 4d 1 0 0 0 0 0 0 0 43 a1 "
+"Sending: 10 56 f0 7 ed 7 29 a 2c a 3 53 90 "
+"Sending: 11 56 f0 7 ed 7 29 a 2c a 3 12 d0 "
+"Sending: 12 56 f0 7 ed 7 29 a 2c a 3 11 d0 "
+"Sending: 10 58 ff 6f d6 "
+"Sending: 15 2c 0 19 da "
+state 19
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

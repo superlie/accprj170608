@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<init>
+    <ray_type>8</ray_type>
+    <compen_ovrd>1</compen_ovrd>
+    <check1_bypass>0</check1_bypass>
+    <check2_bypass>0</check2_bypass>
+</init>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dosei>
+    <dose1_by_pass_mask>0</dose1_by_pass_mask>
+    <preset_dose_per_degree>1006</preset_dose_per_degree>
+    <gantry_speed>239</gantry_speed>
+    <compensate_gain>1008</compensate_gain>
+    <jaw_x1_max_speed>2604</jaw_x1_max_speed>
+    <jaw_x2_max_speed>2601</jaw_x2_max_speed>
+    <jaw_y1_max_speed>2032</jaw_y1_max_speed>
+    <jaw_y2_max_speed>2029</jaw_y2_max_speed>
+    <collimator_type>3</collimator_type>
+	<ref_temp>25.0</ref_temp>
+	<ref_press>760.0</ref_press>
+	<compen_factor>1.0</compen_factor>
+</Dosei>

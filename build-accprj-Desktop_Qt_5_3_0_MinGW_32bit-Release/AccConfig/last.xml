@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<last>
+    <ray_type>8</ray_type>
+    <dose1>152</dose1>
+    <dose2>167</dose2>
+    <time>0.564</time>
+    <rate>300</rate>
+    <jawx1>-2.34717</jawx1>
+    <jawx2>-2.39871</jawx2>
+    <jawy1>-10.3971</jawy1>
+    <jawy2>-10.6733</jawy2>
+    <colli>-154.1</colli>
+    <gpos>200.9</gpos>
+    <arc>0</arc>
+    <stop>0</stop>
+    <gspeed>0</gspeed>
+    <acc1>NONE</acc1>
+    <acc2>无</acc2>
+    <acc3>NONE</acc3>
+</last>

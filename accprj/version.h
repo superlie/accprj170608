@@ -1,0 +1,3 @@
+#define SINGLE_ALONE
+
+#ifdef SINGLE_ALONE

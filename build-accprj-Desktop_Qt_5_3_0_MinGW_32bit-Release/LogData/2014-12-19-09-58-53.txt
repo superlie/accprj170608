@@ -1,0 +1,89 @@
+tmp1= 4270 , tmp2= 4292
+tmp1= 3966 , tmp2= 3987
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+"Sending: 10 43 0 5 d8 "
+"Sending: 11 43 0 4 d8 "
+"Sending: 12 43 0 7 dc "
+"Received: 1 43 0 56 34 30 39 c 43 "
+"Received: 2 43 0 56 34 30 39 f 47 "
+"Sending: 13 43 0 6 dc "
+"Sending: 14 43 0 1 d8 "
+"Sending: 15 43 0 0 d8 "
+"Received: 3 43 0 56 33 30 36 6 bb "
+"Sending: 16 43 0 3 dc "
+"Received: 4 43 0 56 33 30 39 e c7 "
+"Received: 5 43 0 56 33 30 32 4 b7 "
+"Sending: 17 43 0 2 dc "
+"Received: 3 31 c2 4 0 0 0 0 0 0 11 8b "
+"Received: 4 2c 2 1b cd "
+"Sending: 10 58 5 1a 87 "
+"Received: 6 43 0 56 33 30 34 1 b7 "
+"Received: 0 43 0 56 33 31 33 1 b1 "
+"Received: 7 43 0 56 33 31 34 1 b9 "
+"Received: 0 31 43 7 47 7 e8 5 59 6 de a 1a 97 "
+"Received: 6 4b 0 0 60 0 60 1e af "
+emit interlock deleted 24
+emit interlock deleted 83
+emit interlock deleted 84
+emit interlock deleted 11
+emit interlock deleted 27
+emit interlock deleted 26
+"Received: 7 4b 8 0 0 0 0 0 18 f2 "
+"Received: 0 32 bd 0 0 0 21 90 "
+"Received: 6 4b 1 0 40 0 40 2f 81 "
+emit interlock deleted 29
+emit interlock deleted 30
+emit interlock deleted 37
+emit interlock deleted 38
+emit interlock deleted 45
+emit interlock deleted 48
+emit interlock deleted 41
+"Received: 7 41 0 ff f 0 10 0 10 0 10 27 ad "
+"Received: 6 4b 2 0 40 0 40 3c 8f "
+"Received: 7 42 0 e8 6 26 5 0 10 ff f 35 b5 "
+"Sending: 10 41 1e 1e 1 1 c 11 20 cc "
+"Sending: 10 42 1a 1a fa fa fa c8 3e fa "
+"Sending: 14 41 1 0 0 14 ea "
+"Sending: 17 44 1 40 8 1e c2 "
+"Received: 0 45 63 37 df "
+Insert Interlock 79  err 99
+"Sending: 17 44 2 80 8 21 86 "
+"Received: 5 59 0 1a f8 "
+"Sending: 17 44 3 0 9 39 a0 "
+"Received: 0 59 0 4f a8 "
+"Sending: 17 44 4 0 9 4e b6 "
+"Sending: 17 44 5 0 a 5c c6 "
+"Received: 0 45 63 57 ff "
+Insert Interlock 79  err 99
+"Sending: 17 44 6 0 c 69 d6 "
+"Received: 0 45 63 67 8f "
+Insert Interlock 79  err 99
+"Sending: 17 48 1 1 7e df "
+"Sending: 17 48 2 1 8d ef "
+"Sending: 17 48 3 1 9c ff "
+"Sending: 17 48 4 1 ab 8f "
+state 1
+"Sending: 17 48 5 3 b8 9f "
+"Sending: 17 48 6 3 cb b3 "
+"Sending: 17 48 8 3 d5 bf "
+"Sending: 17 48 9 3 e4 cf "
+"Sending: 17 48 a 3 f7 e3 "
+"Sending: 10 4d 0 0 0 0 0 0 0 0 42 9f "
+"Sending: 10 4d 1 0 0 0 0 0 0 0 53 b1 "
+"Received: 0 45 63 77 9f "
+Insert Interlock 79  err 99
+"Sending: 10 56 f0 7 ed 7 29 a 2c a 3 63 a0 "
+"Received: 0 45 63 87 af "
+Insert Interlock 79  err 99
+"Sending: 11 56 f0 7 ed 7 29 a 2c a 3 12 d0 "
+"Received: 0 45 63 97 bf "
+Insert Interlock 79  err 99
+"Sending: 12 56 f0 7 ed 7 29 a 2c a 3 11 d0 "
+"Sending: 10 58 ff 7f e6 "
+"Received: 0 45 63 a7 cf "
+Insert Interlock 79  err 99
+"Sending: 15 2c 0 19 da "
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

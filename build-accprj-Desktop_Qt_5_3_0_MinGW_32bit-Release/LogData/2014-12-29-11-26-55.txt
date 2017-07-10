@@ -1,0 +1,47 @@
+tmp1= 4270 , tmp2= 4292
+tmp1= 3966 , tmp2= 3987
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+OFFLINE
+open can error 
+
+Can init error 
+
+open softpot file name = "./AccConfig/xray_high.xml"
+"Sending: 17 46 19 9 24 1 1 14 e 1 3 cb "
+"Sending: 16 53 3 ec "
+"Sending: 17 53 19 1b 9e "
+"Sending: 13 31 51 8 99 d eb 5 0 0 b be "
+"Sending: 13 32 9b e 4b 9 0 0 0 0 13 d5 "
+"Sending: 13 33 e8 8 33 7 0 8 0 0 29 a1 "
+"Sending: 13 34 0 0 0 0 0 0 3d 84 "
+"Sending: 13 35 57 3 b2 3 49 a0 "
+"Sending: 11 44 0 0 0 0 0 0 8 dd "
+"Sending: 11 47 e8 6 20 4 a 4 55 5 1a 1e 8a "
+"Sending: 12 48 6e 7 55 5 0 0 0 0 3a 7 ea "
+"Sending: 12 53 a1 4 3d 4 fe 3 0 0 18 e4 "
+"Sending: 17 4d 0 2c 90 "
+"Sending: 17 4e 0 3f a4 "
+pst_time= 0.28    pst_time_ret=dosei->preset_treat_time= 168
+0x4a::   rot_dose_per_degree= 1706
+0x4a::   rot_speed_per_sec= 33
+0x52::   dosei->rot_speed 1125
+"Sending: 10 58 5 a f7 "
+open softpot file name = "./AccConfig/xray_high.xml"
+"Sending: 17 46 9 9 24 1 1 14 e 1 42 fa "
+"Sending: 16 53 13 fc "
+"Sending: 17 53 9 5a cd "
+"Sending: 13 31 51 8 99 d eb 5 0 0 5b 8e "
+"Sending: 13 32 9b e 4b 9 0 0 0 0 63 a5 "
+"Sending: 13 33 e8 8 33 7 0 8 0 0 79 f1 "
+"Sending: 13 34 0 0 0 0 0 0 8d d4 "
+"Sending: 13 35 57 3 b2 3 99 f0 "
+"Sending: 11 44 0 0 0 0 0 0 28 fd "
+"Sending: 11 47 e8 6 20 4 a 4 55 5 18 3c a6 "
+"Sending: 12 48 6e 7 55 5 0 0 0 0 38 25 86 "
+"Sending: 12 53 a1 4 3d 4 fe 3 0 0 38 84 "
+"Sending: 17 4d 0 6c d0 "
+"Sending: 17 4e 0 7f e4 "
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

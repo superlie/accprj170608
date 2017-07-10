@@ -1,0 +1,339 @@
+machine_name "VARIAN-23EX-1" 
+
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+init can2 error 
+
+Can2 init error 
+
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 43 0 5 d8 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 11 43 0 4 d8 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 12 43 0 7 dc "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 13 43 0 6 dc "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 14 43 0 1 d8 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 15 43 0 0 d8 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 16 43 0 3 dc "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 43 0 2 dc "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 41 1e 1e 1 1 c 11 10 bc "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 42 1a 1a fa fa fa c8 2e ea "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 14 41 1 0 0 14 ea "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 1 40 8 1e c2 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 2 80 8 21 86 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 3 0 9 39 a0 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 4 0 9 4e b6 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 5 0 a 5c c6 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 17 44 6 0 c 69 d6 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+state 1
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 4d 0 0 0 0 0 0 0 0 32 8f "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 4d 1 0 0 0 0 0 0 0 43 a1 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 56 f0 7 ed 7 29 a 2c a 3 53 90 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 11 56 f0 7 ed 7 29 a 2c a 3 12 d0 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 12 56 f0 7 ed 7 29 a 2c a 3 11 d0 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 10 58 ff 6f d6 "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+"Sending: 15 2c 0 19 da "
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QIODevice::read: device not open
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+QThread: Destroyed while thread is still running
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

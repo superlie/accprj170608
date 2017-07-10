@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IO>
+    <foil_ray_type>1</foil_ray_type>
+    <foil_table>2112</foil_table>
+    <gantry_mode>0</gantry_mode>
+    <tap_ray_type>1</tap_ray_type>
+    <type>0</type>
+    <accept_ray_type>8</accept_ray_type>
+    <afc_loop_mode>0</afc_loop_mode>
+    <dos_loop_mode>0</dos_loop_mode>
+    <setup_ray_type>0</setup_ray_type>
+    <foil_table_e1>2112</foil_table_e1>
+    <foil_table_e2>2176</foil_table_e2>
+    <foil_table_e3>2304</foil_table_e3>
+    <foil_table_e4>2304</foil_table_e4>
+    <foil_table_e5>2560</foil_table_e5>
+    <foil_table_e6>3072</foil_table_e6>
+    <taps_e1>2</taps_e1>
+    <taps_e2>2</taps_e2>
+    <taps_e3>2</taps_e3>
+    <taps_e4>1</taps_e4>
+    <taps_e5>1</taps_e5>
+    <taps_e6>3</taps_e6>
+    <taps_x_lo>3</taps_x_lo>
+    <taps_x_hi>3</taps_x_hi>
+    <taps_film>3</taps_film>
+</IO>

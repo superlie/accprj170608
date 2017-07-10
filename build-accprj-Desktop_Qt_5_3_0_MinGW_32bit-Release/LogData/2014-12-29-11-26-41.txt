@@ -1,0 +1,28 @@
+tmp1= 4270 , tmp2= 4292
+tmp1= 3966 , tmp2= 3987
+toler: x1 49 , x2 48 , y1 30 , y2 31 , colli 22 , gantry 21
+3051 2941 2241 2249 2495 2503
+OFFLINE
+open can error 
+
+Can init error 
+
+open softpot file name = "./AccConfig/xray_low.xml"
+CheckXMLData type = 0  error
+"Sending: 17 46 8 a 22 1 1 14 e 1 6 bc "
+"Sending: 16 53 3 ec "
+"Sending: 17 53 8 1b 8d "
+"Sending: 13 31 88 13 99 d 99 7 0 0 2 a7 "
+"Sending: 13 32 14 e d7 5 0 0 0 0 1d e0 "
+"Sending: 13 33 28 8 7a 8 50 8 0 0 22 f2 "
+"Sending: 13 34 0 0 0 0 0 0 3d 84 "
+"Sending: 13 35 11 2 48 2 4e f3 "
+"Sending: 11 44 4c 0 2f 0 31 0 f 90 "
+"Sending: 11 47 9 7 e4 4 b8 4 67 6 10 19 a2 "
+"Sending: 12 48 28 7 67 6 0 0 0 0 30 d b3 "
+"Sending: 12 53 f 3 9 5 66 6 0 0 19 8a "
+"Sending: 17 4d 0 2c 90 "
+"Sending: 17 4e 0 3f a4 "
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting
+QWaitCondition: Destroyed while threads are still waiting

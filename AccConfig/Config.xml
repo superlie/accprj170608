@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <svc_password>151006</svc_password>
+    <ftp_ip>192.168.1.91</ftp_ip>
+    <ftp_name>711</ftp_name>
+    <ftp_password>711</ftp_password>
+    <dose_rate>0300</dose_rate>
+    <rad_on_delay_time>8000</rad_on_delay_time>
+</config>

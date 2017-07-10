@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doseii>
+    <dose2_by_pass_mask>0</dose2_by_pass_mask>
+    <compensate_gain>1008</compensate_gain>
+    <jaw_x1_max_speed>2604</jaw_x1_max_speed>
+    <jaw_x2_max_speed>2601</jaw_x2_max_speed>
+    <jaw_y1_max_speed>2032</jaw_y1_max_speed>
+    <jaw_y2_max_speed>2029</jaw_y2_max_speed>
+    <collimator_type>3</collimator_type>
+</Doseii>

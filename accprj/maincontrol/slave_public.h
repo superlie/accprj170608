@@ -1,0 +1,72 @@
+#ifndef SLAVE_PUBLIC_H
+#define SLAVE_PUBLIC_H
+
+#define DOSE_NO_BYPASS 0x0000
+#define DOSE_RATE_BYPASS 0x0001
+#define DOSE_TREAT_TIME_BYPASS 0x0002
+#define DOSE_BYPASS 0x0004
+#define DOSE_PER_DEGREE_BYPASS 0x0008
+#define DOSE_STOR_FAIL_BYPASS 0x0010
+#define DOSE_SATURATION_BYPASS 0x0020
+#define DOSE_OFFSET_BYPASS 0x0040
+#define DOSE_PT_SATURATION_BYPASS 0x0080
+#define DOSE_CALCULATION_BYPASS 0x00100
+
+typedef enum {
+    RESET_MODE=0x0,
+    TREATMENT_MODE,
+    RESEARCH_MODE,
+    SERVICE_MODE
+} USERMODE_TYPE_T;
+
+typedef enum
+{
+    CHECK_NONE = 0x0,
+    CHECK1=0x01,
+    CHECK2=0x02,
+    CHECK2_WATCHDOG=0x12
+} CHECKREQ_TYPE_T;
+
+typedef enum
+{
+    NOTREADY=0x02,
+    READY=0x03,
+    INTERRUPTREDY=0x07,
+    PAUSE=0x08,
+    INTERRUPTNOTREADY=0x0c
+} READYSTATE_TYPE_T;
+
+typedef enum{
+    TOMOTOR = 0x10,
+    TODOSEI = 0x11,
+    TODOSEII = 0x12,
+    TOBEAM  = 0x13,
+    TOHAND = 0x14,
+    TOLIGHT = 0x15,
+    TOINTERLOCK = 0x16,
+    TOIO    =   0x17,
+    TOMLC   =   0x18,
+    TOUPPER =   0x1F        //发送到上位机
+} SENDER_INDEX_T;
+
+typedef enum{
+    FROMMOTOR = 0x00,
+    FROMDOSEI = 0x01,
+    FROMDOSEII = 0x02,
+    FROMBEAM = 0x03,
+    FROMHAND = 0x04,
+    FROMLIGHT = 0x05,
+    FROMINTERLOCK = 0x06,
+    FROMIO = 0x07,
+    FROMMLC = 0x08,
+    FROMUPPER = 0x0F        //来自于上位机
+} REVER_INDEX_T;
+
+typedef enum{
+    RESEARCH = 0,
+    DEFAULT = 1,
+    TREATMENT = 2,
+}RE_TE_MODE;
+
+
+#endif
